@@ -1,0 +1,9 @@
+p{
+    font-family: Roboto, Arial; /*This is called font Stacking so  if Roboto Fails the backup font would be Arial*/
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    margin: 0;
+}
